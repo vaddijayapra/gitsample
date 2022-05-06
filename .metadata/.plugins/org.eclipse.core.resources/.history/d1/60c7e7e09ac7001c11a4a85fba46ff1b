@@ -1,0 +1,7 @@
+Feature: verifying the facebook details
+
+Scenario:verify the login details with invalid credentials
+   Given user is on facebook page
+   When  user enters username and password
+   Then  user schould click login button
+   

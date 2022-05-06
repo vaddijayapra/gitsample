@@ -1,0 +1,9 @@
+package stepdefenition;
+
+import com.managr.pageobjectmanager;
+
+public class loginpage extends libglobal {
+	pageobjectmanager manager;
+	
+
+}
